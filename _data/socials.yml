@@ -8,7 +8,8 @@ rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: kktzsLAAAAAJ&hl # your Google Scholar ID
 # wechat_qr: "" # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: "" # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+custom_social: "" # can be any name here other than the ones already defined in the jekyll-socials plugin
+  logo: ""
   title: Custom Social
-  url: https://www.alberteinstein.com/
+  url: ""
+orcid_id: 0009-0003-6193-7403 # Tu identificador de ORCID (los 16 dígitos)
