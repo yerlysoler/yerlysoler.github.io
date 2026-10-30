@@ -6,10 +6,8 @@ title: Mr. Yerly Vanesa Soler Porras # the website title (if blank, full name wi
 first_name: Yerly
 middle_name: 
 last_name: Soler
-contact_note: >
-  Me puedes contactar por mi correo institucional.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Soy Estudiante de Doctorado.
+contact_note: "Me puedes contactar por mi correo institucional."
+description: "Soy Estudiante de Doctorado."
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
