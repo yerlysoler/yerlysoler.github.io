@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate in Mathematical Sciences PCCM (UNAM-UMSNH).
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>CCM</p>
+    <p>Morelia, México</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +26,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in Mathematical Sciences at the Centro de Ciencias Matemáticas (CCM) of the Universidad Nacional Autónoma de México (UNAM). My research focuses on **Commutative Algebra** and **Singularity Theory**. 
+
+Previously, I completed my Bachelor's (2015) and Master's degree (2019) in Mathematics at the Universidad Industrial de Santander (UIS) in Colombia, where I also worked as a university lecturer teaching fundamental courses in calculus and linear algebra, and collaborated extensively with the Regional Mathematics Olympiads.
+
+Feel free to explore my research publications, teaching background, and academic activities using the menu above.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
