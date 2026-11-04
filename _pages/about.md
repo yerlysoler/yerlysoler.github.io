@@ -31,7 +31,3 @@ I am a PhD candidate in Mathematical Sciences at the Centro de Ciencias Matemát
 Previously, I completed my Bachelor's (2015) and Master's degree (2019) in Mathematics at the Universidad Industrial de Santander (UIS) in Colombia, where I also worked as a university lecturer teaching fundamental courses in calculus and linear algebra, and collaborated extensively with the Regional Mathematics Olympiads.
 
 Feel free to explore my research [publications](https://yerlysoler.github.io/publications/), teaching background, and academic activities using the menu above.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
