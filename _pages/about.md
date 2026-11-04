@@ -6,7 +6,7 @@ subtitle: PhD Candidate in Mathematical Sciences PCCM (UNAM-UMSNH).
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Yerly_perfil.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>CCM </p>
