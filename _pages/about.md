@@ -9,8 +9,7 @@ profile:
   image: Yerly_perfil.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>CCM </p>
-    <p>Morelia, México</p>
+    <p>CCM &bull; Morelia, México</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
