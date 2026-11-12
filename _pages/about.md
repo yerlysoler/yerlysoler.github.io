@@ -33,5 +33,8 @@ Feel free to explore my research [publications](https://yerlysoler.github.io/pub
 
 ### Próximas pláticas
 
-- 12 de noviembre de 2026 — Participaré en el seminario CIMAT.  
-  Lugar: Seminario CIMAT
+- **Título por definir** — 12 de noviembre de 2026  
+  Seminario CIMAT, Morelia.
+- **Título por definir** — diciembre de 2026  
+  Lugar: Morelia.
+- **Título por definir** — fecha y lugar por confirmar.
