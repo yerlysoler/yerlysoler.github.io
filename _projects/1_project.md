@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project...
+title: The dimension of Tjurina and YAU algebras
 description: This project is about ...
 img: assets/img/12.jpg
 importance: 1
