@@ -38,5 +38,5 @@ Feel free to explore my research [publications](https://yerlysoler.github.io/pub
   CIMAT, Guanajuato.
 - **Seminario Chichimeca** — 20/nov/2026.  
   CCM, Morelia.
-- **Conferencias en Geometria Algebraica** — 30/nov - 3/dec 2026.
+- **Conferencias en Geometría Algebraica** — 30/nov - 3/dec 2026.  
   CCM, Morelia.
