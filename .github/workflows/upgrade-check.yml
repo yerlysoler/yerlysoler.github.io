@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - main
+      - fix-site-build
       - v1.0-dev
     paths:
       - "_config.yml"
@@ -12,6 +13,7 @@ on:
       - "_pages/**"
       - "_posts/**"
       - "_projects/**"
+      - "_sass/**"
       - "assets/**"
       - "Gemfile"
       - "Gemfile.lock"
@@ -28,6 +30,7 @@ on:
       - "_pages/**"
       - "_posts/**"
       - "_projects/**"
+      - "_sass/**"
       - "assets/**"
       - "Gemfile"
       - "Gemfile.lock"
@@ -40,16 +43,13 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v7
-
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3.13"
           bundler-cache: true
-
       - name: Run upgrade audit 🧪
         run: bundle exec al-folio upgrade audit
-
       - name: Upload upgrade report 📄
         if: always()
         uses: actions/upload-artifact@v7
