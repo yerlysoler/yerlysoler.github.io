@@ -8,6 +8,7 @@ on:
       - fix-site-build
     paths:
       - "assets/**"
+      - "_sass/**"
       - "**.bib"
       - "**.html"
       - "**.js"
@@ -33,9 +34,9 @@ on:
     branches:
       - master
       - main
-      - fix-site-build
     paths:
       - "assets/**"
+      - "_sass/**"
       - "**.bib"
       - "**.html"
       - "**.js"
