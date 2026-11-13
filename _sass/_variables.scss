@@ -1,11 +1,4 @@
-// Sobreescritura de colores globales para al-folio v1.x
-
-:root {
-  --global-theme-color: #1d4ed8; // Reemplaza el morado en modo claro
-  --global-hover-color: #1e40af; // Color al pasar el cursor
-}
-
-[data-theme="dark"] {
-  --global-theme-color: #38bdf8; // Reemplaza el azul/morado en modo oscuro
-  --global-hover-color: #7dd3fc;
-}
+// Local Sass overrides intentionally left empty.
+// In al-folio v1.x, custom theme tokens must be declared with !default in a module
+// or they break during Sass compilation with @use.
+// Keep the default al-folio theme until these overrides are migrated to the supported pattern.
