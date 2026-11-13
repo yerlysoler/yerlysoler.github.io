@@ -1,4 +1,15 @@
-// Local Sass overrides intentionally left empty.
-// In al-folio v1.x, custom theme tokens must be declared with !default in a module
-// or they break during Sass compilation with @use.
-// Keep the default al-folio theme until these overrides are migrated to the supported pattern.
+// Local theme color overrides for al-folio v1.x.
+// The core theme loads this module with @use, so local variables must use !default
+// to remain compatible with the upstream Sass contract.
+
+$max-content-width: 930px !default;
+
+:root {
+  --global-theme-color: #1d4ed8;
+  --global-hover-color: #1e40af;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #38bdf8;
+  --global-hover-color: #7dd3fc;
+}
