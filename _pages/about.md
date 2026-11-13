@@ -29,7 +29,7 @@ I am a PhD candidate in Mathematical Sciences at the Centro de Ciencias Matemát
 
 Previously, I completed my Bachelor's (2015) and Master's degree (2019) in Mathematics at the Universidad Industrial de Santander (UIS) in Colombia, where I also worked as a university lecturer teaching fundamental courses in calculus and linear algebra, and collaborated extensively with the Regional Mathematics Olympiads.
 
-Feel free to explore my research [publications](https://yerlysoler.github.io/publications/), teaching background, and academic activities using the menu above.
+Feel free to explore my research [publications](https://yerlysoler.github.io/publications/), teaching background, and academic activities using the menu above. 
 
 
 ### Próximas pláticas
@@ -38,5 +38,5 @@ Feel free to explore my research [publications](https://yerlysoler.github.io/pub
   CIMAT, Guanajuato.
 - **Seminario Chichimeca** — 20/nov/2026.  
   CCM, Morelia.
-- **Conferencias en Geometría Algebraica** — 30/nov - 3/dec 2026.  
+- **[Conferencias en Geometría Algebraica](https://drive.matmor.unam.mx/s/xbWaNwcWmYgyQ9y/preview)** — 30/nov - 3/dec 2026.  
   CCM, Morelia.
