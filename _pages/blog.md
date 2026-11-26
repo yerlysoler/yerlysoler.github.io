@@ -2,7 +2,7 @@
 layout: default
 permalink: /blog/
 title: talks
-nav: true
+nav: false
 nav_order: 6
 pagination:
   enabled: true
