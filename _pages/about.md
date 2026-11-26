@@ -36,8 +36,7 @@ Feel free to explore my research [publications](https://yerlysoler.github.io/pub
 
 - **Seminario de Álgebra Conmutativa y Geometría Algebraica** — 12/nov/2026.  
   CIMAT, Guanajuato.
-- **[Seminario Chichimeca]
-- (https://sites.google.com/view/moreliaotoo2026/inicio)** — 20/nov/2026.  
+- **[Seminario Chichimeca](https://sites.google.com/view/moreliaotoo2026/inicio)** — 20/nov/2026.  
   CCM, Morelia.
 - **[Conferencias en Geometría Algebraica](https://drive.matmor.unam.mx/s/xbWaNwcWmYgyQ9y/preview)** — 30/nov - 3/dec 2026.  
   CCM, Morelia.
